@@ -18,6 +18,6 @@ Confira a [análise completa](https://)
 
 ### Contato
 
-[LinkedIn](https://linkedin.com/in/vinicius-boscoa)
-[Instagram](https://instagram.com/viniciusboscoa)
-[Portfólio Data Science](https://github.com/virb30/data-science)
+* [LinkedIn](https://linkedin.com/in/vinicius-boscoa)
+* [Instagram](https://instagram.com/viniciusboscoa)
+* [Portfólio Data Science](https://github.com/virb30/data-science)
