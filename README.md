@@ -14,7 +14,7 @@
 Nesse projeto foi feita a análise dos dados do Airbnb para a Grande Lisboa. Através dela foi possível extrair alguns *insights* interessantes como quais as localidades mais caras
 e qual a média de preço de um Airbnb por região.
 
-Confira a [análise completa](https://)
+Confira a [análise completa](https://colab.research.google.com/drive/1H1GHthXObl2WxiciECyKtqJFlLK2Qgma?usp=sharing)
 
 ### Contato
 
