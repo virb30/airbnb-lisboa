@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-virb30-blue.svg)](https://www.linkedin.com/in/vinicius-boscoa/) 
+[![LinkedinBadge](https://img.shields.io/badge/Vinicius%20Boscoa-blue?logo=LinkedIn&link=https://www.linkedin.com/in/vinicius-boscoa/)](https://www.linkedin.com/in/vinicius-boscoa/)
 [![](https://img.shields.io/badge/python-3.7+-green.svg)](https://www.python.org/downloads/release/python-365/) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
@@ -20,4 +20,4 @@ Confira a [análise completa](https://colab.research.google.com/drive/1H1GHthXOb
 
 * [LinkedIn](https://linkedin.com/in/vinicius-boscoa)
 * [Instagram](https://instagram.com/viniciusboscoa)
-* [Portfólio Data Science](https://github.com/virb30/data-science)
+* [Portfólio Data Science](https://github.com/virb30/data_science)
