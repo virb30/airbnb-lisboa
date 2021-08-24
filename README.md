@@ -14,10 +14,13 @@
 Nesse projeto foi feita a análise dos dados do Airbnb para a Grande Lisboa. Através dela foi possível extrair alguns *insights* interessantes como quais as localidades mais caras
 e qual a média de preço de um Airbnb por região.
 
-Confira a [análise completa](https://colab.research.google.com/drive/1H1GHthXObl2WxiciECyKtqJFlLK2Qgma?usp=sharing)
+Confira o [artigo](https://www.viniboscoa.dev/blog/analisando-dados-do-airbnb-lisboa) no blog
+
+A análise completa você encontra [aqui](https://colab.research.google.com/drive/1H1GHthXObl2WxiciECyKtqJFlLK2Qgma?usp=sharing)
 
 ### Contato
 
+* [Blog](https://viniboscoa.dev/blog)
 * [LinkedIn](https://linkedin.com/in/vinicius-boscoa)
 * [Instagram](https://instagram.com/viniciusboscoa)
 * [Portfólio Data Science](https://github.com/virb30/data_science)
